@@ -1,0 +1,1 @@
+package com.unitTest.services;public class Calculator {    public static int addTwoNumbers(int a, int b){        return a+b;    }    public static int subTwoNumbers(int a, int b) {        return a - b;    }    public static int mulTwoNumbers(int a, int b) {        return a * b;    }    public static int divTwoNumbers(int a, int b){        return a / b;}}
